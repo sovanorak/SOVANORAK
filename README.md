@@ -17,11 +17,6 @@ Welcome to my GitHub profile! I'm a **passionate Full-Stack Developer** from Cam
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
 
-## 🌐 **Connect with Me**
 
-- **LinkedIn:** [(https://www.linkedin.com/in/long-sovanorak-147b8a273/)](#)  
-- **GitHub:** [github.com/SOVANORAK](#)
-  
----
 
 
