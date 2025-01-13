@@ -1,8 +1,6 @@
 # Hi 👋, I'm SOVANORAK
 
-Welcome to my GitHub profile! I'm a **passionate Full-Stack Developer** from Cambodia, committed to building scalable and user-centric applications. I specialize in creating seamless user experiences and robust backend systems.
-
-## 👩‍💻 About Me
+##  About Me
 
 - 🌍 Based in: **Phnom Penh, Cambodia**
 - 🌱 Always learning new technology...
