@@ -30,7 +30,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SOVANORAK&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOVANORAK&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOVANORAK&langs_count=8&layout=compact&theme=radical)
+
 
 ## 🔥 Streak Stats
 
