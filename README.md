@@ -1,7 +1,5 @@
 # Hi, I'm SOVANORAK
 
-##  About Me
-
 -  Based in: **Phnom Penh, Cambodia**
 -  Always learning new technology...
 
