@@ -31,9 +31,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOVANORAK&langs_count=8&layout=compact&theme=radical)
 
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SOVANORAK&theme=radical)
 
 
 
